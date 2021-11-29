@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.354" height="86.233" viewBox="0 0 85.354 86.233">
+  <defs>
+    <filter id="Elipse_1" x="0" y="0" width="85.354" height="86.233" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_206" data-name="Grupo 206" transform="translate(7.5 5.5)">
+    <g transform="matrix(1, 0, 0, 1, -7.5, -5.5)" filter="url(#Elipse_1)">
+      <ellipse id="Elipse_1-2" data-name="Elipse 1" cx="35.177" cy="35.617" rx="35.177" ry="35.617" transform="translate(7.5 5.5)" opacity="0.9"/>
+    </g>
+    <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M14.958,17.634l8.148-8.653a1.7,1.7,0,0,0,0-2.31,1.487,1.487,0,0,0-2.18,0l-9.232,9.8a1.707,1.707,0,0,0-.045,2.255L20.92,28.6a1.484,1.484,0,0,0,2.18,0,1.7,1.7,0,0,0,0-2.31Z" transform="translate(17.774 17.978)" fill="#f7d708" stroke="#f7d708" stroke-width="4" opacity="0.63"/>
+  </g>
+</svg>
